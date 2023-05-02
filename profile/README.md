@@ -4,7 +4,7 @@ Pkgcraft is a highly experimental tooling ecosystem for Gentoo targeting
 efficiency and versatility that aims to support many languages leveraging a
 shared, core implementation.
 
-More information about the project can be found on its [website][0] and
+More information about the project can be found on its [FAQ][0] and
 [development blog][1].
 
 ### Core components
