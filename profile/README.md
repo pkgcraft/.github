@@ -9,9 +9,10 @@ More information about the project can be found on its [FAQ][0] and
 
 ### Core components
 
-- [scallop][2]: bash support
-- [pkgcraft][3]: Gentoo functionality
-- [arcanist][4]: package-building daemon
+- [scallop][2]: bash library
+- [pkgcraft][3]: core library
+- [pkgcraft-tools][4]: command-line tools
+- [arcanist][5]: package-building daemon
 
 ### Language bindings
 
@@ -25,7 +26,8 @@ More information about the project can be found on its [FAQ][0] and
 [1]: <https://pkgcraft.github.io/>
 [2]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/scallop>
 [3]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft>
-[4]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/arcanist>
+[4]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-tools>
+[5]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/arcanist>
 
 [5]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-c>
 [6]: <https://github.com/pkgcraft/pkgcraft-python>
