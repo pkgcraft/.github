@@ -1,11 +1,15 @@
-## [Pkgcraft][website]
+## [Pkgcraft][blog]
 
 Pkgcraft is a highly experimental tooling ecosystem for Gentoo targeting
 efficiency and versatility that aims to support many languages leveraging a
 shared, core implementation.
 
+Compatibility with the official [package management specification][pmspec] is
+aimed for, but not always adhered to. See the list of known [deviations] for
+details.
+
 More information about the project can be found on its [FAQ] and
-[development blog][website].
+[development blog][blog].
 
 ### Core components
 
@@ -24,12 +28,14 @@ More information about the project can be found on its [FAQ] and
 - [Perl]
 
 [faq]: <https://pkgcraft.github.io/about/>
-[website]: <https://pkgcraft.github.io/>
+[blog]: <https://pkgcraft.github.io/>
 [scallop]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/scallop>
 [pkgcraft]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft>
 [pkgcraft-tools]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-tools>
 [pkgcruft]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcruft>
 [arcanist]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/arcanist>
+[pmspec]: https://wiki.gentoo.org/wiki/Project:Package_Manager_Specification
+[deviations]: https://github.com/orgs/pkgcraft/discussions/134
 
 [c]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-c>
 [python]: <https://github.com/pkgcraft/pkgcraft-python>
