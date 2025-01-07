@@ -8,6 +8,9 @@ Compatibility with the official [package management specification][pmspec] is
 aimed for, but not always adhered to. See the list of known [deviations] for
 details.
 
+Overlays using custom profile-formats extensions are not supported, see the
+[related issue][profile-formats] for details.
+
 More information about the project can be found on its [FAQ] and
 [development blog][blog].
 
@@ -36,6 +39,7 @@ More information about the project can be found on its [FAQ] and
 [arcanist]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/arcanist>
 [pmspec]: https://wiki.gentoo.org/wiki/Project:Package_Manager_Specification
 [deviations]: https://github.com/orgs/pkgcraft/discussions/134
+[profile-formats]: https://github.com/pkgcraft/pkgcraft/issues/251
 
 [c]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-c>
 [python]: <https://github.com/pkgcraft/pkgcraft-python>
