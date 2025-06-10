@@ -20,6 +20,7 @@ More information about the project can be found on its [FAQ] and
 - [pkgcraft]: core library
 - [pkgcraft-tools]: command-line tools
 - [pkgcruft]: QA library and tools
+- [pkgcruft-git]: QA support for verifying git commits
 - [arcanist]: package-building daemon
 
 ### Language bindings
@@ -36,6 +37,7 @@ More information about the project can be found on its [FAQ] and
 [pkgcraft]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft>
 [pkgcraft-tools]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcraft-tools>
 [pkgcruft]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcruft>
+[pkgcruft-git]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/pkgcruft-git>
 [arcanist]: <https://github.com/pkgcraft/pkgcraft/tree/main/crates/arcanist>
 [pmspec]: https://wiki.gentoo.org/wiki/Project:Package_Manager_Specification
 [deviations]: https://github.com/orgs/pkgcraft/discussions/134
